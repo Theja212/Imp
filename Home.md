@@ -7,3 +7,5 @@
 [Configuring mail server in Jenkins](https://github.com/DeekshithSN/CICD_Java_gradle_application/wiki/Configuring-mail-server-in-Jenkins)
 
 [Configuring PR based trigger in Jenkins](https://github.com/DeekshithSN/CICD_Java_gradle_application/wiki/Configuring-PR-based-trigger-in-Jenkins)
+
+[How to pull the images from private repository ( nexus ) to k8s kubeadm cluster](https://github.com/DeekshithSN/CICD_Java_gradle_application/wiki/How-to-pull-the-images-from-private-repository-(-nexus-)-to-k8s-kubeadm-cluster)
