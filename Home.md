@@ -4,7 +4,7 @@
 
 [Creating Helm hosted repository in Nexus and Pushing the helm charts](https://github.com/DeekshithSN/CICD_Java_gradle_application/wiki/Creating-Helm-hosted-repository-in-Nexus-and-Pushing-the-helm-charts)
 
-[Configuring mail server in Jenkins](https://github.com/DeekshithSN/CICD_Java_gradle_application/wiki/Configuring-mail-server-in-Jenkins)
+[Configuring mail server in Jenkins](https://github.com/DeekshithSN/CICD_Java_gradle_application/wiki/Configuring-mail-server-in-Jenkins-(-Gmail-))
 
 [Configuring PR based trigger in Jenkins](https://github.com/DeekshithSN/CICD_Java_gradle_application/wiki/Configuring-PR-based-trigger-in-Jenkins)
 
