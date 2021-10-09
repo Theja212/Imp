@@ -31,3 +31,15 @@ post {
 also which ever the mail you use for authentication in that mail setting "Less secure apps access" should be enabled 
 
 ![mail5](https://user-images.githubusercontent.com/29688323/136435833-879ce27a-1212-4398-a319-f4e6b778ebe6.JPG)
+
+Default Subject
+
+```
+$PROJECT_NAME - Build # $BUILD_NUMBER - $BUILD_STATUS!
+```
+
+```
+$PROJECT_NAME - Build # $BUILD_NUMBER - $BUILD_STATUS:
+
+Check console output at $BUILD_URL to view the results.
+```
