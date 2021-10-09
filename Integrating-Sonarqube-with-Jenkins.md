@@ -38,6 +38,14 @@ To create webhook navigate to administration --> configuration --> webhooks --> 
 
 ![sonar5](https://user-images.githubusercontent.com/29688323/136376934-2ad4cc25-9593-40ff-8ef7-a84516348e26.JPG)
 
+```
+ timeout(time: 1, unit: 'HOURS') {
+                      def qg = waitForQualityGate()
+                      if (qg.status != 'OK') {
+                           error "Pipeline aborted due to quality gate failure: ${qg.status}"
+                      }
+                    }
+```
 
 Then in sonarqube configure quality gates, below is default if want we can change it 
  
