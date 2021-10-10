@@ -21,7 +21,7 @@ and in Jenkinsfile you refer as mentioned below
 	    		withCredentials([kubeconfigFile(credentialsId: 'kubernetes-config', variable: 'KUBECONFIG')]) {
 			  dir ("kubernetes/"){  
 				sh 'helm list'
-				sh 'helm upgrade --install --set image.repository="34.125.132.246:8083/springapp" --set image.tag="${VERSION}" myjavaapp myapp/ ' 
+				sh 'helm upgrade --install --set image.repository="nexus_ip:8083/springapp" --set image.tag="${VERSION}" myjavaapp myapp/ ' 
 			  }
 		       } 
 		    }		
