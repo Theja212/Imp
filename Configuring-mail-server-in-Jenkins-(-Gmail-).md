@@ -32,6 +32,8 @@ also which ever the mail you use for authentication in that mail setting "Less s
 
 ![mail5](https://user-images.githubusercontent.com/29688323/136435833-879ce27a-1212-4398-a319-f4e6b778ebe6.JPG)
 
+Sometimes we need do extra setting https://g.co/allowaccess allowed access from outside for a limited time and this solved my problem. 
+
 Default Subject
 
 ```
